@@ -53,7 +53,6 @@ Starting the App
 To start the app, ensure that Streamlit is installed in your Python environment. Run the following command:
 
 ```bash
-Copy code
 streamlit run streamlit_app.py
 ```
 
